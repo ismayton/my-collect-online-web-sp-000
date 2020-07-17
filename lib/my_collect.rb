@@ -1,4 +1,4 @@
-def collect(array)
+def my_collect(array)
   counter = 0 
   collect = []
   while counter < array.length 
